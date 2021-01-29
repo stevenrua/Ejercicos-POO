@@ -1,0 +1,7 @@
+E:\programasCSharp\ejerciciosAlejo\Ejercicio4\Ejemplo4\Ejemplo4\bin\Debug\Ejemplo4.exe.config
+E:\programasCSharp\ejerciciosAlejo\Ejercicio4\Ejemplo4\Ejemplo4\bin\Debug\Ejemplo4.exe
+E:\programasCSharp\ejerciciosAlejo\Ejercicio4\Ejemplo4\Ejemplo4\bin\Debug\Ejemplo4.pdb
+E:\programasCSharp\ejerciciosAlejo\Ejercicio4\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.csprojAssemblyReference.cache
+E:\programasCSharp\ejerciciosAlejo\Ejercicio4\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.csproj.CoreCompileInputs.cache
+E:\programasCSharp\ejerciciosAlejo\Ejercicio4\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.exe
+E:\programasCSharp\ejerciciosAlejo\Ejercicio4\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.pdb
